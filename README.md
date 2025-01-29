@@ -1,45 +1,44 @@
-Preloader SVG Animation
+🚀 Preloader SVG Animation
 
-Este proyecto es una animación SVG de un preloader, utilizando HTML y CSS para efectos visuales.
+Este proyecto es una animación SVG de un preloader, utilizando HTML y CSS para efectos visuales. 🎨✨
 
-Tecnologías Utilizadas
+🛠️ Tecnologías Utilizadas
 
-HTML5: Estructura del documento.
+🏗️ HTML5: Estructura del documento.
 
-CSS3: Estilos y animaciones adicionales.
+🎨 CSS3: Estilos y animaciones adicionales.
 
-SVG: Formato vectorial para la animación.
+🔷 SVG: Formato vectorial para la animación.
 
-Descripción
+📜 Descripción
 
-Este preloader utiliza elementos SVG animados para representar una conexión de energía con un efecto de trazado en movimiento.
+Este preloader utiliza elementos SVG animados para representar una conexión de energía ⚡ con un efecto de trazado en movimiento.
 
-Características
+✨ Características
 
-Animaciones con stroke-dasharray y stroke-dashoffset.
+✅ Animaciones con stroke-dasharray y stroke-dashoffset.
+✅ Movimiento de objetos con animateMotion.
+✅ Interactividad minimalista y fluida.
 
-Movimiento de objetos con animateMotion.
+🏗️ Instalación y Uso
 
-Interactividad minimalista.
-
-Instalación y Uso
-
-Clona este repositorio:
+📥 Clona este repositorio:
 
 git clone https://github.com/jobjarquin1/Preloader-SVG-animation.git
 
-Abre el archivo index.html en tu navegador.
+🌍 Abre el archivo index.html en tu navegador favorito.
 
-Vista Previa
+👀 Vista Previa
 
-Puedes ver la animación en acción abriendo index.html en cualquier navegador compatible.
+Puedes ver la animación en acción abriendo index.html en cualquier navegador compatible. 🖥️🎥
 
-Autor
+👤 Autor
 
-Desarrollado por Job Jarquin
+Desarrollado por Job Jarquin 💻🚀
 
-Licencia
+📜 Licencia
 
-Este proyecto está bajo la licencia MIT.
+Este proyecto está bajo la licencia MIT. 📄✅
 
-Créditos de icono original a Iconathon.
+🖌️ Créditos de icono original a Iconathon.
+
