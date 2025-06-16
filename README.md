@@ -42,3 +42,6 @@ Este proyecto está bajo la licencia MIT. 📄✅
 
 🖌️ Créditos de icono original a Iconathon.
 
+
+![Captura de pantalla 2025-06-16 135339](https://github.com/user-attachments/assets/74e2bf76-7224-410e-9edd-7e998b4060f5)
+
